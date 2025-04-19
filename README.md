@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Kemal</h1>
-<h3 align="center">I'm interested in frontend technologies.</h3>
+<h3 align="center">Frontend Developer | Passionate about modern web technologies</h3>
 
-- ### 💬 Ask Me About
+ ### 💬 Ask Me About
 - ⚛️ React
 - 💡 Frontend Development
 - 🌐 Responsive Design
