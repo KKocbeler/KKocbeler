@@ -1,9 +1,10 @@
 <h1 align="center">Hey, I'm Kemal</h1>
 <h3 align="center">I'm interested in frontend technologies.</h3>
 
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **React**
+- ### 💬 Ask Me About
+- ⚛️ React
+- 💡 Frontend Development
+- 🌐 Responsive Design
 
 - 📫 How to reach me **kkocbeler@gmail.com**
 
